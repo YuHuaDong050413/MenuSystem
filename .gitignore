@@ -1,0 +1,18 @@
+# UE5 生成的临时文件（不需要提交）
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+Plugins/MultiplayerSessions/Binaries/
+Plugins/MultiplayerSessions/Intermediate
+
+# VS 编译文件
+.vscode/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# macOS & Windows 系统文件
+.DS_Store
+Thumbs.db
